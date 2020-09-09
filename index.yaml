@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simple-artemis:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-09T19:08:13.076163892Z"
+    description: A Helm chart for Kubernetes
+    digest: a5ef0f829f23d901c77f3bbed910021eec9a4c5bfd78012662babcbd696a2a92
+    name: simple-artemis
+    type: application
+    urls:
+    - simple-artemis-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-09T19:08:13.075061262Z"
